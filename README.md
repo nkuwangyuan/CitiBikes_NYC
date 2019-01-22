@@ -10,6 +10,6 @@ Citi Bike is a public bicycle sharing system serving New York City, NY and Jerse
 • Estimate the cycling time by fixed-effect regression and analyze the trends by user categories: age, gender, membership
 • Compare the trip duration / distance during time in a day, days in a week, and months in a year
 
-Please click the link for this project [CitiBikes_NYC](https://nkuwangyuan.github.io/CitiBikes_NYC/Citibikes_NYC.pdf)
+Please click the link for this project [CitiBikes_NYC](https://nkuwangyuan.github.io/CitiBikes_NYC/CitiBikes_NYC.pdf)
 
 Yuan Wang
